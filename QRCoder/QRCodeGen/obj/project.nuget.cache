@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TO0/idCmDG13ggb3ZZ+/q32WXFMXq7hNnuzyJ6DKugi+EL4z0KGnGFaNwwX/SvvJOgUxgAzYJyXzqpl07afXzw==",
+  "success": true,
+  "projectFilePath": "D:\\QRCoder\\QRCoder\\QRCodeGen\\QRCodeGen.csproj",
+  "expectedPackageFiles": [
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\qrcoder\\1.3.7\\qrcoder.1.3.7.nupkg.sha512",
+    "D:\\SocialNetwork\\Netway.Utils\\Utils\\obj\\Debug\\net8.0\\ref\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

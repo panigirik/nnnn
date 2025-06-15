@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\QRCoder\\QRCoder\\QRCodeGen\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QRCode.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QRCode.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QRCode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QRCode.props",
+      "PackagePath": "build\\QRCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QRCode.props",
+      "PackagePath": "buildMultiTargeting\\QRCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QRCode.props",
+      "PackagePath": "buildTransitive\\QRCode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
